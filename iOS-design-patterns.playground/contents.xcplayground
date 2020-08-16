@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' executeOnSourceChanges='false'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='SRP'/>
+        <page name='OCP'/>
+        <page name='LSP'/>
+        <page name='ISP'/>
+        <page name='DIP'/>
+        <page name='Proxy'/>
+        <page name='Facade'/>
+        <page name='Decorator'/>
+        <page name='Composite'/>
+        <page name='Adapter'/>
+        <page name='Singleton'/>
+        <page name='Factory'/>
+        <page name='Mediator'/>
+        <page name='Command'/>
+        <page name='Flyweight'/>
+        <page name='Bridge'/>
+        <page name='Prototype'/>
+        <page name='Builder'/>
+        <page name='Interpreter'/>
+        <page name='Interator'/>
+        <page name='ChainOfResponsibility'/>
+        <page name='Memento'/>
+        <page name='Nullobject'/>
+        <page name='BuilderFacets'/>
+    </pages>
 </playground>

@@ -25,5 +25,6 @@
         <page name='Memento'/>
         <page name='Nullobject'/>
         <page name='BuilderFacets'/>
+        <page name='Value-binding pattern'/>
     </pages>
 </playground>

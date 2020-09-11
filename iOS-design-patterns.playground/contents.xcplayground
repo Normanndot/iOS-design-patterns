@@ -18,6 +18,7 @@
         <page name='Flyweight'/>
         <page name='Bridge'/>
         <page name='Builder'/>
+        <page name='Builder-1'/>
         <page name='Interpreter'/>
         <page name='Interator'/>
         <page name='ChainOfResponsibility'/>

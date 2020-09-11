@@ -17,7 +17,6 @@
         <page name='Command'/>
         <page name='Flyweight'/>
         <page name='Bridge'/>
-        <page name='Prototype'/>
         <page name='Builder'/>
         <page name='Interpreter'/>
         <page name='Interator'/>
@@ -26,5 +25,8 @@
         <page name='Nullobject'/>
         <page name='BuilderFacets'/>
         <page name='Value-binding pattern'/>
+        <page name='Prototype'/>
+        <page name='Prototype-1'/>
+        <page name='Prototype-2'/>
     </pages>
 </playground>

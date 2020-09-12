@@ -20,7 +20,6 @@
         <page name='Builder'/>
         <page name='Builder-1'/>
         <page name='Interpreter'/>
-        <page name='Interator'/>
         <page name='ChainOfResponsibility'/>
         <page name='Memento'/>
         <page name='Nullobject'/>
@@ -29,5 +28,8 @@
         <page name='Prototype'/>
         <page name='Prototype-1'/>
         <page name='Prototype-2'/>
+        <page name='Interator'/>
+        <page name='Interator-1'/>
+        <page name='Interator-2'/>
     </pages>
 </playground>

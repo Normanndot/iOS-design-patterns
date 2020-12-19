@@ -32,5 +32,6 @@
         <page name='Interator-1'/>
         <page name='Interator-2'/>
         <page name='Flyweight-1'/>
+        <page name='ObserverPattern'/>
     </pages>
 </playground>
